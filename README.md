@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander (@byhaskell)
+- 👋 Hi, I’m Oleksander (@byhaskell)
 - 👀 I’m interested in PHP, SYMFONY!
 - 🌱 I’m currently worked!
 - 📫 Contact me via telegram https://t.me/byhaskell
